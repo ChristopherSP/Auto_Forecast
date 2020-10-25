@@ -1,0 +1,12 @@
+---
+file_path: "~/Documents/Codes/Auto_Forecast/data/data.txt"
+output_path: "~/Desktop"
+file_separator: "\t"
+levels:
+  - "Grupo"
+  - "Subgrupo"
+date_column: "date"
+target_variable: "value"
+date_frequency: 12
+h_obs: 24
+---
